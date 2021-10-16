@@ -1,5 +1,5 @@
-#ifndef NEMO_FOO_H_
-#define NEMO_FOO_H_
+#ifndef NEMO_COUNT_PRIMES_H_
+#define NEMO_COUNT_PRIMES_H_
 
 #include <iostream>
 
